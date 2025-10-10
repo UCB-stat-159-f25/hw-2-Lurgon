@@ -5,5 +5,5 @@ _This repository is public so that Binder can find it. All code and data is base
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw-2-Lurgon/HEAD?labpath=LOSC_Event_tutorial.ipynb)
 
-
-https://mybinder.org/v2/gh/UCB-stat-159-f25/hw-2-Lurgon/HEAD?labpath=LOSC_Event_tutorial.ipynb&force-rebuild=true 
+_Testable binder link
+_https://mybinder.org/v2/gh/UCB-stat-159-f25/hw-2-Lurgon/HEAD?labpath=LOSC_Event_tutorial.ipynb&force-rebuild=true
